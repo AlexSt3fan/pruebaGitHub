@@ -1,0 +1,6 @@
+{"timestamp":665951,"category":"nimbus_events","name":"enrollment","extra":{"branch":"control","experiment":"add-an-image-to-pdf-with-alt-text-rollout","experiment_type":"rollout"}}
+{"timestamp":665961,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"enable-csv-import","experiment":"csv-import-release-rollout"}}
+{"timestamp":665976,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"treatment","experiment":"upgrade-spotlight-rollout"}}
+{"timestamp":665982,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment_type":"rollout","experiment":"phc-rollout"}}
+{"timestamp":665994,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"nimbus","experiment":"long-term-holdback-2024-h2-velocity-desktop","branch":"delivery"}}
+{"timestamp":666007,"category":"nimbus_events","name":"enrollment","extra":{"branch":"control","experiment_type":"rollout","experiment":"encrypted-client-hello-fallback-mechanism"}}

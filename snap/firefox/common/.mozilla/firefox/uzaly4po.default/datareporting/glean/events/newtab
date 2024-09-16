@@ -1,0 +1,14 @@
+{"timestamp":1464805,"category":"newtab","name":"opened","extra":{"newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","source":"about:newtab"}}
+{"timestamp":1464823,"category":"topsites","name":"impression","extra":{"position":"4","newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","is_sponsored":"false"}}
+{"timestamp":1464823,"category":"topsites","name":"impression","extra":{"newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","advertiser_name":"adidas","tile_id":"74633","is_sponsored":"true","position":"1"}}
+{"timestamp":1464823,"category":"pocket","name":"impression","extra":{"tile_id":"8799657365343067","position":"2","is_sponsored":"false","newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}"}}
+{"timestamp":1464823,"category":"pocket","name":"impression","extra":{"position":"1","is_sponsored":"false","newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","tile_id":"8410982536756862"}}
+{"timestamp":1464823,"category":"topsites","name":"impression","extra":{"position":"2","newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","is_sponsored":"false"}}
+{"timestamp":1464823,"category":"pocket","name":"impression","extra":{"position":"0","tile_id":"4794287025887197","newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","is_sponsored":"false"}}
+{"timestamp":1464824,"category":"topsites","name":"impression","extra":{"newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","is_sponsored":"false","position":"6"}}
+{"timestamp":1464829,"category":"topsites","name":"impression","extra":{"position":"7","newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","is_sponsored":"false"}}
+{"timestamp":1464829,"category":"topsites","name":"impression","extra":{"newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","advertiser_name":"amazon","is_sponsored":"true","position":"0","tile_id":"74357"}}
+{"timestamp":1464830,"category":"topsites","name":"impression","extra":{"is_sponsored":"false","position":"3","newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}"}}
+{"timestamp":1464830,"category":"topsites","name":"impression","extra":{"newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","position":"5","is_sponsored":"false"}}
+{"timestamp":3504152,"category":"topsites","name":"impression","extra":{"position":"0","is_sponsored":"true","tile_id":"74357","advertiser_name":"amazon","newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}"}}
+{"timestamp":3504152,"category":"topsites","name":"impression","extra":{"is_sponsored":"true","position":"1","newtab_visit_id":"{f7107c48-358f-47bd-84b4-b23c4dea838c}","advertiser_name":"adidas","tile_id":"74633"}}
